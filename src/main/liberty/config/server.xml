@@ -1,6 +1,7 @@
 <server description="defaultServer">
     <featureManager>
         <feature>jakartaee-11.0</feature>
+        <feature>mpConfig-3.1</feature>
     </featureManager>
     <basicRegistry id="defaultBasicRegistry" realm="BasicRealm">
         <user name="username" password="password" />
